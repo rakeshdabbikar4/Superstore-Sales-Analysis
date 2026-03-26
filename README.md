@@ -18,16 +18,6 @@ To perform data cleaning, create KPIs, and design an interactive Excel dashboard
 
 ---
 
-## 📂 Files in this Repository
-| File Name | Description |
-|------------|-------------|
-| `Sample_Superstore.xlsx` | Dataset used for the dashboard |
-| `Superstore_Sales_Analysis_Portfolio.pdf` | Visual project report with insights and dashboard screenshots |
-| `Rakesh_Dabbikar_Data_Analyst_Resume.pdf` | ATS-friendly professional resume |
-| `README.md` | Project overview and details |
-
----
-
 ## 📈 Key Metrics
 | KPI | Description | Example Value |
 |-----|--------------|----------------|
