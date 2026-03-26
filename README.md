@@ -38,6 +38,12 @@ To perform data cleaning, create KPIs, and design an interactive Excel dashboard
 
 ---
 
+## 📊 Dashboard Preview
+
+![Superstore Dashboard](dashboard.png)
+
+---
+
 ## 📊 Dashboard Insights
 - ✅ **West Region** generated the highest sales and profit.  
 - ✅ **Technology Category** contributed the most profit (37%).  
